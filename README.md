@@ -1,5 +1,5 @@
 # RDR-Taiwan
-### Ranking didital rights in Taiwan
+### Ranking digital rights in Taiwan
 
 #### A pilot project about Telcoms and ISPs' privacy and data policy in Taiwan 
 
