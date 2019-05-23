@@ -5,8 +5,10 @@
 
 [draft proposal](https://hackmd.io/54y8HHwYQNupNdDeueCdpQ) on Hackmd
 
+[raw materials](https://drive.google.com/file/d/1A6vqGvUxlQoUM-vHB1ot7tHG4467qpzC/view?usp=sharing) on google drive
+
 ====
 
 [online working group](https://crabgrass.riseup.net/rdr-taiwan/) request to join
 
-[all in one workspace](https://notion.so/rdrtaiwan) request to join
+
